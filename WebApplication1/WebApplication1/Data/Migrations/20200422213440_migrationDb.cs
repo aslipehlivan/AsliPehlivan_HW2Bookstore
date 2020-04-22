@@ -2,7 +2,7 @@
 
 namespace WebApplication1.Data.Migrations
 {
-    public partial class mig1 : Migration
+    public partial class migrationDb : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
